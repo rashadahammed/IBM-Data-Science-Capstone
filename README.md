@@ -1,7 +1,6 @@
 # IBM-Data-Science-Capstone
 
-
-1. Data Collection with Web Scraping
+### 1. Data Collection with Web Scraping
 
 Web scrap Falcon 9 launch records with BeautifulSoup:
 
@@ -10,7 +9,7 @@ Parse the table and convert it into a Pandas data frame
 
 
 
-2. Data Collection API
+### 2. Data Collection API
 
 In this lab, you will make a get request to the SpaceX API. You will also do some basic data wrangling and formating.
 
